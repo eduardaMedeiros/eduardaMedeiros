@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- 📚 I’m currently studying Computer Science<br>- 💻 I work in the software quality area as a Junior QA Analyst at Orange Testing.<br>- 🏫 I study at Senac University Center (Centro Universitário Senac)<br>- 📧 You can contact me through my e-mail: eduarda_medeiros_silva@hotmail.com</p>
+<p align="left">- 📚 I’m currently studying Computer Science<br>- 💻 I work in the software quality area as a Mid-level QA Analyst at Visto Tecnologia.<br>- 🏫 I study at Senac University Center (Centro Universitário Senac)<br>- 📧 You can contact me through my e-mail: eduarda_medeiros_silva@hotmail.com</p>
 
 ###
 
